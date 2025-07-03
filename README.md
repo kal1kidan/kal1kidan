@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Kalkidan!
+🌱 I'm a Software Engineering student passionate about web development and building projects to level up my skills.  
+💻 Currently learning: HTML, CSS, JavaScript, Git, and GitHub  
+🚀 2025 Goal: Build 10 projects and land my first internship  
+📬 Connect with me on [LinkedIn](www.linkedin.com/in/kalkidan-asdesach)
 
-<!--
-**kal1kidan/kal1kidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I'm exploring:
+- HTML / CSS / JavaScript
+- Git & GitHub
+- Python 
+-c++
+-java
